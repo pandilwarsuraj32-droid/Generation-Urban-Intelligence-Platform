@@ -1,0 +1,10 @@
+{
+  "name": "CITYVERSE AI — Smart City Explorer & AI Copilot",
+  "description": "Next-generation cinematic smart city exploration platform combining 3D digital maps, AI copilot itineraries, visual civic issue reporting, and real-time urban pulse intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
